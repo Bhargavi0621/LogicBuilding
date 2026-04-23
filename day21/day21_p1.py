@@ -14,3 +14,10 @@ if number==sum:
     print("Perfect Number")
 else:
     print("Not Perfect Number")
+
+"""python day21_p1.py
+Enter the number: 28
+Perfect Number
+python day21_p1.py
+Enter the number: 38
+Not Perfect Number"""
